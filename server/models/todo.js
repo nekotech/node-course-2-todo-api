@@ -28,6 +28,4 @@ var Todo = mongoose.model('Todo', {
 //   console.log('Unable to save', e);
 // });
 
-module.exports = {
-  Todo
-}
+module.exports = {Todo};
